@@ -1,0 +1,10 @@
+"VpcId": "vpc-002aec2311a88f624"
+private subnet:"subnet-0b485d618518613d4"
+public subnet : "subnet-0075e6b2dabc3f959"
+route table id :rtb-015ef3eaf89577c0e
+"InternetGatewayId": "igw-0454028b9cf9e3dd0"
+"GroupId": sg-076b8f7508da86236
+ami id :ami-089f365c7b6a04f00
+
+
+
